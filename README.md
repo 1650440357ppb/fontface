@@ -11,6 +11,8 @@
 2. 使用方式一
    
    利用unicode编码引用
+   <pre>
+   <code>
     @font-face {
     font-family: "字体名字";
     src: url('字体路径');
@@ -21,10 +23,12 @@
     }
     div{
     font-family:abc
-    }          
+    }  
+    </code>
     <div>
     对应的unicode编码
     </div>
+</pre>
     
    
 3.  使用方式二
